@@ -38,7 +38,8 @@ Libraries: pandas, argparse etc (requirements.txt) <br>
 | Steven	| 691250247	| weisskristina@example.net	| 9T1zNeAN(2	| user	| 2023-11-10 09:52:49	| [] |
 | George	| 681988567	| michelle93@example.org	| +hL*hdte2H	| admin	| 2023-11-08 16:38:28	| [{'name': 'Samantha', 'age': 6}] |
 | Donna	| 504140673	| ngutierrez@example.net | @9TcRo15As	| user	| 2023-11-06 02:10:33	| [{'name': 'Jackie', 'age': 9}, {'name': 'Mitchell', 'age': 6}] |
-
+<br>
+Command format
 ```
 python script.py <command> --login <login> --password <password>
 ```
